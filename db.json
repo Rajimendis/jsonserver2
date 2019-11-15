@@ -1,0 +1,20 @@
+{  
+   "ExamQuestion":[  
+      {  
+         "QuestionGroup":"QuestionA",
+         "Id":1,
+         "Title":"QuestionTitle1",
+         "QuestionType":1,
+         "TimeLimit":1,
+         "Text":"We will guide you ..."
+      },
+      {  
+         "QuestionGroup":"QuestionB",
+         "Id":2,
+         "Title":"QuestionTitle2",
+         "QuestionType":2,
+         "TimeLimit":2,
+         "Text":"皆様にご案内いたします ..."
+      }
+   ]
+}
